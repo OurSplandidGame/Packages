@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/playerMovement.cs">
+    <Files>
+      <File FileName="Assets/Script/playerMovement.cs" Line="18" Column="48" NotebookId="1" />
+      <File FileName="Assets/Script/EnemyMovement.cs" Line="34" Column="35" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="2195" Y="286" Width="1239" Height="645">
+        <Files>
+          <File FileName="Assets/Arashi_Character/Scrip/Player.cs" Line="31" Column="15" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
