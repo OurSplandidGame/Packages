@@ -1,17 +1,22 @@
 ﻿<Properties StartupConfiguration="{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/playerMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CommonScripts/PlayerController.cs">
     <Files>
-      <File FileName="Assets/Script/playerMovement.cs" Line="18" Column="48" NotebookId="1" />
-      <File FileName="Assets/Script/EnemyMovement.cs" Line="34" Column="35" NotebookId="1" />
+      <File FileName="Assets/CommonScripts/PlayerController.cs" Line="152" Column="36" />
+      <File FileName="Assets/UI/StartScene/Scripts/SceneControl.cs" Line="68" Column="6" />
+      <File FileName="Assets/SitePackage/Standard Assets/Environment/Water/Water/Scripts/Water.cs" Line="1" Column="1" />
+      <File FileName="Assets/CommonScripts/Spawner.cs" Line="47" Column="18" />
+      <File FileName="Assets/AnimalPackage/Scripts/Animal.cs" Line="38" Column="1" />
+      <File FileName="Assets/Pickup/Rotate.cs" Line="1" Column="1" />
+      <File FileName="Assets/CommonScripts/Character.cs" Line="126" Column="74" />
+      <File FileName="Assets/UI/HUD/Scripts/HUDCanvas.cs" Line="53" Column="6" />
+      <File FileName="Assets/InventoryMaster/Scripts/ExampleScript/PlayerInventory.cs" Line="36" Column="15" />
+      <File FileName="Assets/InventoryMaster/Scripts/Inventory/Inventory.cs" Line="190" Column="28" />
+      <File FileName="Assets/InventoryMaster/Scripts/Inventory/InputManager.cs" Line="4" Column="14" />
+      <File FileName="Assets/InventoryMaster/Scripts/Item/ConsumeItem.cs" Line="38" Column="64" />
+      <File FileName="Assets/InventoryMaster/Scripts/Item/Item.cs" Line="1" Column="1" />
+      <File FileName="Assets/CommonScripts/AiCharacter.cs" Line="1" Column="1" />
     </Files>
-    <FloatingWindows>
-      <FloatingWindow WindowId="1" X="2195" Y="286" Width="1239" Height="645">
-        <Files>
-          <File FileName="Assets/Arashi_Character/Scrip/Player.cs" Line="31" Column="15" />
-        </Files>
-      </FloatingWindow>
-    </FloatingWindows>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

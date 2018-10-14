@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/KaiXingNongChang.unity
+- path: Assets/Hopeless.unity
   isLoaded: 1
   isActive: 1
